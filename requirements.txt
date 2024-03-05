@@ -1,0 +1,6 @@
+streamlit
+openai
+elevenlabs
+pytube
+anthropic
+pydub
